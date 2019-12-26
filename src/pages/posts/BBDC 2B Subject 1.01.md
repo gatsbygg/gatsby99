@@ -49,7 +49,7 @@ We have a basic orientation:
    Bike chain working, there is RPM when reving the trottle.
 2. **Handling of bike while stationary**  
    How to lift the bike down from main stand, put bike back on main stand.  
-   The bike is actually heavy! The CB190R is 150kg!! So it requires some time to get used to balancing it.
+   The bike is actually heavy! The CB190R is 150kg!! So it requires some time to get used to balancing it. And you better get the hang of put it back on main stand, because you are going to do it every lesson as and when you want to park to bike!
 
    > ### "Pro tip: When putting bike back on main stand, place your right leg on the stand and cross your left leg over to push your weight to pivot over the bike! Like this you will not need to use much of your arm strength which is quite tiring."
 3. **Lifting bike up from dropped position**  
