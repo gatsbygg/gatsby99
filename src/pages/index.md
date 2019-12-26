@@ -13,9 +13,7 @@ sections:
   template: contentblock
   title: About
   section_id: about
-  actions:
-  - label: Contact Me
-    url: "/contact"
+  actions: []
   component: ContentBlock
   content: A normal person living his life to the fullest.
   image: ''
