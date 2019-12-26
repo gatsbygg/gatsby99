@@ -28,6 +28,8 @@ There is a total of 14 Practical Subjects to pass before taking your TP Test for
 * TP (A.k.a Traffic Police Test)
 * 9.01 (Last Secret Lesson Public Road Expressway)
 
+## Before the First Lesson
+
 1. Topped up my account credits at the self-service booths from previous day while opening my account.
 2. I bought the essential gears needed the day before. **$2 durian gloves** from the counter, the **white color cap** from the welcome pack, [**$5** **cooling sleeve**](https://www.lazada.sg/products/free-shipping-rockbros-cooling-arm-sleeves-outdoor-sports-sun-uv-protection-covers-breathable-motorcycle-arm-sleeves-i106850545-s691894872.html?spm=a2o42.searchlist.list.1.3fb6449ft06I6N&search=1) from lazada.
 3. **Try to reach early to the bike office like 30-15mins earlier.**
