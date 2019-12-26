@@ -5,8 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: Blog about my daily life. Mainly about new tech, hobbies, and anything
-    under the sun!
+  content: You don't have to be a superhero. Live your day like it is your last and
+    enjoy your life to the fullest!
   title: ''
   actions: []
 - type: contentblock
