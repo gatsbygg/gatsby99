@@ -61,7 +61,7 @@ We have a basic orientation:
    Turn your key to switch on your power supply to bike  
    Press on the ignition to start up the bike
 6. **Practice half clutch control in 1st Gear**  
-   This is the main part of the lesson. And the bread and butter of the lessons to come.
+   This is the main part of the lesson. And the bread and butter of the lessons to come. This allows you to start moving off the bike. It is like taking baby steps while you learn to walk. This is the same thing for learning bike. Practice it and get to feel the bike moving.
 
    > ### "When letting go of the clutch, feel for the biting point. When you feel the bike starts to move, that's the **biting point."**
 
