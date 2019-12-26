@@ -11,7 +11,22 @@ canonical_url: ''
 ---
 **The Honda CB190R in Repsol paint! This is the bike we will be using throughout our 2B course.** Photo by [Boon Siew Singapore.](https://www.facebook.com/permalink.php?id=312155238984570&story_fbid=905796239620464 "Boon Siew")
 
-> ### **2nd Dec 2018 was the first lesson of my bike learning journey.**
+> ### **"2nd Dec 2018 was the first lesson of my bike learning journey."**
+
+## Prelude
+
+There is a total of 14 Practical Subjects to pass before taking your TP Test for 2B licence:
+
+* 1.01 , 1.02, 1.03 (Circuit Training)
+* 2.01 , 2.02 (Circuit Training)
+* 3.01 , 3.02 (Circuit Training)
+* 4.01 , 4.02 (Circuit Training)
+* 5.01 , 5.02 (Circuit Evaluation)
+* 6.01 (Public Road)
+* 7.01 (Public Road)
+* 8.01 (Public Road Evaluation)
+* TP (A.k.a Traffic Police Test)
+* 9.01 (Last Secret Lesson Public Road Expressway)
 
 1. Topped up my account credits at the self-service booths from previous day while opening my account.
 2. I bought the essential gears needed the day before. **$2 durian gloves** from the counter, the **white color cap** from the welcome pack, [**$5** **cooling sleeve**](https://www.lazada.sg/products/free-shipping-rockbros-cooling-arm-sleeves-outdoor-sports-sun-uv-protection-covers-breathable-motorcycle-arm-sleeves-i106850545-s691894872.html?spm=a2o42.searchlist.list.1.3fb6449ft06I6N&search=1) from lazada.
