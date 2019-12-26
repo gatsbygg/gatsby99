@@ -2,7 +2,7 @@
 title: BBDC Class 2B Licence Journey :) Subject 1.01
 date: 2018-12-01T23:30:00Z
 thumb_img_path: "/images/cb190r in BBDC.jpg"
-content_img_path: ''
+content_img_path: "/images/cb190r in BBDC.jpg"
 excerpt: Subject 1.01 on 02/12/2018 Sun :)
 template: post
 subtitle: 2B Motorbike Licence walkthrough
