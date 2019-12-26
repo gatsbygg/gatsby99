@@ -15,7 +15,8 @@ sections:
   section_id: about
   actions: []
   component: ContentBlock
-  content: A normal person living his life to the fullest.
+  content: Blog about my daily life. Mainly about new tech, hobbies, and anything
+    under the sun!
   image: ''
 - type: postsblock
   template: postsblock
