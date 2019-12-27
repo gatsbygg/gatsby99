@@ -40,5 +40,9 @@ fields:
   default: post
   config:
     required: true
+- name: motorbike_2b
+  type: tag_list
+  default: []
+  label: Motorbike 2B
 pages:
 - src/pages/posts/BBDC 2B Subject 1.01.md
