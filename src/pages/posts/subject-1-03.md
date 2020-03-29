@@ -1,9 +1,9 @@
 ---
 template: post
 motorbike_2b: []
-title: Subject 1.03
-subtitle: ''
-date: 2018-12-08T09:00:00+08:00
+title: 2B 1.03
+subtitle: 2B 1.03 - Speed control
+date: 2018-12-08T01:00:00.000+00:00
 thumb_img_path: "/images/3.jpg"
 content_img_path: ''
 excerpt: Lesson 3
