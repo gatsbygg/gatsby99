@@ -1,9 +1,13 @@
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
+    siteUrl: 'https://gatsbygg.netlify.com/'
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
+        'gatsby-plugin-robots-txt',
+        'gatsby-plugin-sitemap',
+        'gatsby-plugin-feed'
         {
             resolve: `gatsby-source-filesystem`,
             options: {
