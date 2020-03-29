@@ -1,9 +1,9 @@
 ---
 template: post
 motorbike_2b: []
-title: Subject 1.02
+title: 2B 1.02
 subtitle: Changing Gears + Low Speed Control
-date: 2018-12-06T00:00:00+08:00
+date: 2018-12-05T16:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Lesson 2
