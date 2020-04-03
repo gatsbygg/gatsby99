@@ -4,7 +4,7 @@ motorbike_2b: []
 title: 2B 1.03
 subtitle: 2B 1.03 - Speed control
 date: 2018-12-08T01:00:00.000+00:00
-thumb_img_path: "/images/3.jpg"
+thumb_img_path: ''
 content_img_path: ''
 excerpt: Lesson 3
 canonical_url: ''
