@@ -4,5 +4,5 @@ menus:
   main:
     title: Food
     weight: 2
-template: blog
+template: blogfood
 ---
