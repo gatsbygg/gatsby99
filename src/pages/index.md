@@ -28,7 +28,7 @@ sections:
   - label: 2B Bike - BBDC Adventures
     url: blog/
   component: PostsBlock
-  num_posts_displayed: 4
+  num_posts_displayed: 0
 menus:
   main:
     title: Home
