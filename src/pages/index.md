@@ -24,7 +24,7 @@ sections:
   section_id: recent-posts
   actions:
   - label: 'Noteworthy Food '
-    url: "/food"
+    url: "/Food"
   - label: 2B Bike - BBDC Adventures
     url: blog/
   component: PostsBlock
