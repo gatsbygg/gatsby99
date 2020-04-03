@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 2B - BBDC Adventures
 menus:
   main:
     title: Blog
