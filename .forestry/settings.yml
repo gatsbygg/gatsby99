@@ -56,6 +56,8 @@ sections:
   label: Food
   create: all
   match: "**/*"
+  templates:
+  - post
 - type: document
   path: src/data/menus.json
   label: Site Menus
