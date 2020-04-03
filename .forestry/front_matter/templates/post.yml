@@ -46,5 +46,6 @@ fields:
   label: Motorbike 2B
 pages:
 - src/pages/posts/2-01.md
+- src/pages/posts/2b-2-02.md
 - src/pages/posts/subject-1-02.md
 - src/pages/posts/subject-1-03.md
