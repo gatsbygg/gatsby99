@@ -51,6 +51,11 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: src/pages/food
+  label: Food
+  create: all
+  match: "**/*"
 - type: document
   path: src/data/menus.json
   label: Site Menus
