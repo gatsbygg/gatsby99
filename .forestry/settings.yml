@@ -24,9 +24,11 @@ sections:
   label: Home
   templates:
   - home
+- type: heading
+  label: Blog Posts
 - type: document
   path: src/pages/blog/index.md
-  label: Blog
+  label: 2B - Bike BBDC Adventures
   templates:
   - blog
 - type: document
