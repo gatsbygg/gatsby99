@@ -46,7 +46,7 @@ sections:
   - page
 - type: directory
   path: src/pages/posts
-  label: Post
+  label: 2b BBDC
   create: all
   match: "**/*"
   templates:
