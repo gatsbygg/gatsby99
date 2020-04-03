@@ -45,6 +45,7 @@ fields:
   default: []
   label: Motorbike 2B
 pages:
+- src/pages/food/avocado-toast.md
 - src/pages/posts/2-01.md
 - src/pages/posts/2b-2-02.md
 - src/pages/posts/2b-3-01.md
