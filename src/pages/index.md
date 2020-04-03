@@ -23,8 +23,10 @@ sections:
   title: Recent Posts
   section_id: recent-posts
   actions:
-  - label: View Blog
-    url: blog/index.html
+  - label: 'Noteworthy Food '
+    url: "/food"
+  - label: 2B Bike - BBDC Adventures
+    url: blog/
   component: PostsBlock
   num_posts_displayed: 4
 menus:
