@@ -1,7 +1,7 @@
 ---
 title: BBDC Class 2B Licence Journey :) Subject 1.01
 date: 2018-12-01T23:30:00.000+00:00
-thumb_img_path: "/images/101.jpg"
+thumb_img_path: ''
 content_img_path: "/images/cb190r in BBDC.jpg"
 excerpt: Subject 1.01 on 02/12/2018 Sun :)
 template: post
