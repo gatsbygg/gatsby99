@@ -68,3 +68,5 @@ We have a basic orientation:
    > ### "When letting go of the clutch, feel for the biting point. When you feel the bike starts to move, that's the **biting point."**
 
 That's the end of lesson 1.01! After every lesson, you have to get a pass to book the next lesson. And this lesson is pretty much just an orientation. So everyone PASSED! Next lesson will be 1.02!
+
+[Next Lesson](https://gatsbygg.netlify.app/posts/subject-1-02/)
