@@ -1,7 +1,7 @@
 ---
 template: post
 motorbike_2b: []
-title: 2B 1.02
+title: "1.02"
 subtitle: Changing Gears + Low Speed Control
 date: 2018-12-05T16:00:00.000+00:00
 thumb_img_path: ''
@@ -10,6 +10,8 @@ excerpt: Lesson 2
 canonical_url: ''
 
 ---
+> # **_Difficulty level: ![](/images/ok-la.png) _**
+
 2nd lesson of the circuit training.
 
 The instructor today looked damn fierce, like no nonsense black face kind. He sounded strict like if we don't meet the requirement for today's tasks he will fail us and we have to come back for the same lesson. STRESSED!
