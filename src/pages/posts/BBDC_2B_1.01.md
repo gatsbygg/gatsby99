@@ -39,6 +39,8 @@ There is a total of 14 Practical Subjects to pass before taking your TP Test for
 
 ## Lesson 1.01
 
+> # **_Difficulty Level:_** ![Easy](/images/easy.png "Easy")
+
 So excited for my first lesson ever! We have 3 guys and 1 lady attending.
 
 We have a basic orientation:
