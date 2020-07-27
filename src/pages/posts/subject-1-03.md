@@ -1,7 +1,7 @@
 ---
 template: post
 motorbike_2b: []
-title: 2B 1.03
+title: "1.03"
 subtitle: 2B 1.03 - Speed control
 date: 2018-12-08T01:00:00.000+00:00
 thumb_img_path: ''
@@ -10,6 +10,8 @@ excerpt: Lesson 3
 canonical_url: ''
 
 ---
+> # **_Difficulty Level: ![](/images/ok-la.png)_**
+
 Previous 2 lessons we learnt about basic handling of our bikes. Today our instructor told us we are learning about speed regulating.
 
 **How to slow down when negotiating bend**
