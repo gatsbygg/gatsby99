@@ -10,7 +10,7 @@ excerpt: Lesson 2
 canonical_url: ''
 
 ---
-> # **Difficulty level: ![](/images/ok-la.png) **
+> # Difficulty level: ![](/images/ok-la.png) 
 
 2nd lesson of the circuit training.
 
