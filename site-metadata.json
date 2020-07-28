@@ -13,7 +13,14 @@
   "footer": {
     "content": "&copy; All rights reserved 2019 Mr Gatsby.",
     "links": [
-
+      {
+        "text": "Lesson 1.01",
+        "url": "https://gatsbygg.netlify.app/posts/BBDC_2B_1.01/",
+        "new_window": false
+      },
+      {
+        "new_window": false
+      }
     ]
   }
 }
