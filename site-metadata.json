@@ -19,7 +19,9 @@
         "new_window": false
       },
       {
-        "new_window": false
+        "new_window": false,
+        "url": "https://gatsbygg.netlify.app/posts/subject-1-02/",
+        "text": "lesson 1.02"
       }
     ]
   }
