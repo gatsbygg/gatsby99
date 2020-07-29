@@ -10,7 +10,7 @@ excerpt: Lesson 2
 canonical_url: ''
 
 ---
-> # Difficulty level: ![](/images/ok-la.png) 
+> # Difficulty level: ![](/images/ok-la.png)
 
 2nd lesson of the circuit training.
 
@@ -58,6 +58,12 @@ After we are confident in changing gear and stopping, we are brought outside to 
 
 And... that is it for lesson 1.02! The instructor was in a super bad mood like kept scolding us . Pointing out like our mistake and say still not steady la... but I passed!! YAY off to lesson 1.03 next!
 
-[Next Lesson](https://gatsbygg.netlify.app/posts/subject-1-03/) 1.03
+#### [**Go to next lesson 1.03**](https://gatsbygg.netlify.app/posts/subject-1-03/)
 
 * [Lesson 1.01](https://gatsbygg.netlify.app/posts/BBDC_2B_1.01/)
+* [Lesson 1.02](https://gatsbygg.netlify.app/posts/subject-1-02/)
+* [Lesson 1.03](https://gatsbygg.netlify.app/posts/subject-1-03/)
+* [Lesson 2.01](https://gatsbygg.netlify.app/posts/2-01/)
+* [Lesson 2.02](https://gatsbygg.netlify.app/posts/2b-2-02/)
+* [Lesson 3.01](https://gatsbygg.netlify.app/posts/2b-3-01/)
+* [Lesson 3.02](https://gatsbygg.netlify.app/posts/2b-3-02/)
