@@ -41,3 +41,7 @@ There are 5 cones in front of us. We are supposed to move and stop after each co
 3. Practice gentle braking with rear+front brake
 
 Today our instructor was quite strict like the last lesson. 5 of us only 3 passed.... and I'm one of the 3! YAY, next lesson onwards to 2.01!
+
+[Next lesson](https://gatsbygg.netlify.app/posts/2-01/ "2.01") 2.01
+
+[Previous lesson 1.02]()
