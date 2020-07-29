@@ -42,6 +42,12 @@ There are 5 cones in front of us. We are supposed to move and stop after each co
 
 Today our instructor was quite strict like the last lesson. 5 of us only 3 passed.... and I'm one of the 3! YAY, next lesson onwards to 2.01!
 
-[Next lesson](https://gatsbygg.netlify.app/posts/2-01/ "2.01") 2.01
+#### [**Go to next lesson 2.01**](https://gatsbygg.netlify.app/posts/2-01/ "2.01")
 
-[Previous lesson 1.02](https://gatsbygg.netlify.app/posts/subject-1-02/)
+* [Lesson 1.01](https://gatsbygg.netlify.app/posts/BBDC_2B_1.01/)
+* [Lesson 1.02](https://gatsbygg.netlify.app/posts/subject-1-02/)
+* [Lesson 1.03](https://gatsbygg.netlify.app/posts/subject-1-03/)
+* [Lesson 2.01](https://gatsbygg.netlify.app/posts/2-01/)
+* [Lesson 2.02](https://gatsbygg.netlify.app/posts/2b-2-02/)
+* [Lesson 3.01](https://gatsbygg.netlify.app/posts/2b-3-01/)
+* [Lesson 3.02](https://gatsbygg.netlify.app/posts/2b-3-02/)
