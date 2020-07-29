@@ -37,6 +37,17 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }
+        },
+        {
+            resolve: "gatsby-plugin-page-progress",
+            options: {
+              includePaths: [],
+              excludePaths: ['/'],
+              height: 3,
+              prependToBody: false,
+              color: `#663399`,
+              footerHeight: 500,
+            }
+          }
     ]
 };
