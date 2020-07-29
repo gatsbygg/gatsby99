@@ -44,4 +44,4 @@ Today our instructor was quite strict like the last lesson. 5 of us only 3 passe
 
 [Next lesson](https://gatsbygg.netlify.app/posts/2-01/ "2.01") 2.01
 
-[Previous lesson 1.02]()
+[Previous lesson 1.02](https://gatsbygg.netlify.app/posts/subject-1-02/)
