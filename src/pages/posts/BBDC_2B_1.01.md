@@ -69,7 +69,7 @@ We have a basic orientation:
 
 That's the end of lesson 1.01! After every lesson, you have to get a pass to book the next lesson. And this lesson is pretty much just an orientation. So everyone PASSED! Next lesson will be 1.02!
 
-#### [**Go to next lesson 1.02**]()
+##### [**Go to next lesson 1.02**](https://gatsbygg.netlify.app/posts/subject-1-02/)
 
 * [Lesson 1.01](https://gatsbygg.netlify.app/posts/BBDC_2B_1.01/)
 * [Lesson 1.02](https://gatsbygg.netlify.app/posts/subject-1-02/)
