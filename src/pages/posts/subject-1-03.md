@@ -1,7 +1,7 @@
 ---
 template: post
 motorbike_2b: []
-title: "1.03"
+title: BBDC 2B 1.03
 subtitle: 2B 1.03 - Speed control
 date: 2018-12-08T01:00:00.000+00:00
 thumb_img_path: ''
