@@ -1,7 +1,7 @@
 ---
 template: post
 motorbike_2b: []
-title: "1.02"
+title: BBDC 2B 1.02
 subtitle: Changing Gears + Low Speed Control
 date: 2018-12-05T16:00:00.000+00:00
 thumb_img_path: ''
